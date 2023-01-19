@@ -1,0 +1,37 @@
+#btn-primary-s {
+    border-radius: 0;
+}
+
+.button {
+    font-size: 15px;
+    text-align: center;
+    color: #3F87F5 !important;
+    background: #FEF5FB;
+    mix-blend-mode: normal;
+    border-radius: 24px;
+    border: none;
+    padding: 14px 62px;
+    transition: 0.08s;
+}
+
+.offers {
+    padding: 50px 30px;
+    cursor: pointer;
+}
+
+.offers:hover {
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+#image-cards{
+    width: 100px;
+    height: 100px;
+    
+}
+#border{
+    align-items: center;
+    border: none;
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+    padding: 20px 50px;
+}
